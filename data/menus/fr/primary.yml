@@ -2,19 +2,19 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   children: []
 - title: Équipe
-  target: "/equipe/"
+  target: "/fr/equipe/"
   kind: page
   children:
   - title: Équipe éditoriale
-    target: "/equipe/equipe-editoriale/"
+    target: "/fr/equipe/equipe-editoriale/"
     kind: page
     children: []
 - title: Organisations
-  target: "/organisations/"
+  target: "/fr/organisations/"
   kind: page
   children: []
 
