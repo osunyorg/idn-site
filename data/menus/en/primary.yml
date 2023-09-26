@@ -9,4 +9,8 @@ items:
   target: "/en/organizations/"
   kind: page
   children: []
+- title: The network
+  target: "/en/the-network/"
+  kind: page
+  children: []
 
