@@ -6,9 +6,11 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    organizations: /organizations/:slug/
 fr:
   title: International Degrowth Network
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   permalinks:
+    organizations: /organisations/:slug/
