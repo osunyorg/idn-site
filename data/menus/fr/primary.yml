@@ -8,11 +8,7 @@ items:
 - title: Équipe
   target: "/fr/equipe/"
   kind: page
-  children:
-  - title: Équipe éditoriale
-    target: "/fr/equipe/equipe-editoriale/"
-    kind: page
-    children: []
+  children: []
 - title: Organisations
   target: "/fr/organisations/"
   kind: page
