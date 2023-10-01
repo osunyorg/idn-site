@@ -2,3 +2,11 @@ theme: osuny-hugo-theme-aaa
 paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
+params:
+  logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/icon-white.svg"
+  breadcrumb:
+    position: after-hero
+  summary:
+    position: hero
