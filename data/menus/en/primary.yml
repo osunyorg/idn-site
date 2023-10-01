@@ -5,4 +5,8 @@ items:
   target: "/en/the-network/"
   kind: page
   children: []
+- title: News
+  target: "/en/news/"
+  kind: page
+  children: []
 
