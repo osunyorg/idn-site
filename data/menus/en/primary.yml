@@ -1,8 +1,12 @@
 ---
-title: Menu principal
+title: Primary menu
 items:
 - title: The network
   target: "/en/the-network/"
+  kind: page
+  children: []
+- title: News
+  target: "/en/news/"
   kind: page
   children: []
 
