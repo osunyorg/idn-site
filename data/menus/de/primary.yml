@@ -1,0 +1,12 @@
+---
+title: Menu principal
+items:
+- title: Posts
+  target: "/de/posts/"
+  kind: page
+  children: []
+- title: Organizations
+  target: "/de/organizations/"
+  kind: page
+  children: []
+
