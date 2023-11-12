@@ -1,0 +1,12 @@
+---
+title: Menu principal
+items:
+- title: Actualités
+  target: "/es/actualites/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/es/organisations/"
+  kind: page
+  children: []
+
